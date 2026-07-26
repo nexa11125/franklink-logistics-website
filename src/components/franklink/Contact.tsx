@@ -2,7 +2,7 @@
 
 import { useState, type FormEvent } from 'react';
 
-const FORM_ACCESS_KEY = '3374c956-35c5-47cc-9c6e-91567c3c02d0';
+const FORM_ACCESS_KEY = '250121c5-ad14-4d16-b61a-50c0e9e08d56';
 const FORM_URL = 'https://api.web3forms.com/submit';
 
 interface FormState {
